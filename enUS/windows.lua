@@ -22,6 +22,13 @@ L["Bank Bag Slots"] = true
 --Character
 L["Character"] = true
 
+--Skills
+L["Skills"] = true
+L["Skill Details"] = true
+L["Collapse All"] = true
+L["Expand All"] = true
+L["Unlearn"] = true
+
 --Reputation
 L["Reputation"] = true
 L["At War"] = true
