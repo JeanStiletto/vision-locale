@@ -85,6 +85,7 @@ L["Quest Choice"] = true
 L["Daily"] = true
 L["Weekly"] = true
 L["Quest List"] = true
+L["Quests"] = true
 
 --Range
 L["Range"] = true
