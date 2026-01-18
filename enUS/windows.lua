@@ -22,6 +22,11 @@ L["Bank Bag Slots"] = true
 --Character
 L["Character"] = true
 
+--Reputation
+L["Reputation"] = true
+L["At War"] = true
+L["Watched"] = true
+
 --Collections
 L["Collections"] = true
 L["Mounts"] = true
