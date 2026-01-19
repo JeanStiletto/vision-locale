@@ -34,6 +34,13 @@ L["Reputation"] = true
 L["At War"] = true
 L["Watched"] = true
 
+--PVP
+L["PVP"] = true
+L["Honorable Kills"] = true
+L["Today"] = true
+L["Yesterday"] = true
+L["Lifetime"] = true
+
 --Collections
 L["Collections"] = true
 L["Mounts"] = true
