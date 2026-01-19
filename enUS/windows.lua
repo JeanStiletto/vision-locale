@@ -34,6 +34,13 @@ L["Reputation"] = true
 L["At War"] = true
 L["Watched"] = true
 
+--Pet
+L["Pet"] = true
+L["No pet"] = true
+L["Diet"] = true
+L["Stats"] = true
+L["Resistances"] = true
+
 --PVP
 L["PVP"] = true
 L["Honorable Kills"] = true
