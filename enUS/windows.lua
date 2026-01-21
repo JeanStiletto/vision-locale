@@ -137,6 +137,7 @@ L["Taxi"] = true
 
 --TradeSkill
 L["Trade Skill"] = true
+L["Recipes"] = true
 
 --Training
 L["Training"] = true
