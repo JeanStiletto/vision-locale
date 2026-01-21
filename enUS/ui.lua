@@ -112,6 +112,7 @@ L["Resistances"] = true
 L["Mounted"] = true
 
 --Equipment slot names (for empty slots)
+L["Ammo"] = true
 L["Head"] = true
 L["Neck"] = true
 L["Shoulders"] = true

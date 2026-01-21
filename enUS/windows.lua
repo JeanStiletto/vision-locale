@@ -48,6 +48,12 @@ L["Today"] = true
 L["Yesterday"] = true
 L["Lifetime"] = true
 
+--Talents
+L["Talents"] = true
+L["Specialization"] = true
+L["Talent Grid"] = true
+L["rank"] = true
+
 --Collections
 L["Collections"] = true
 L["Mounts"] = true
@@ -122,6 +128,9 @@ L["Reforging"] = true
 
 --Spellbook
 L["Spellbook"] = true
+L["Spells"] = true
+L["Previous Page"] = true
+L["Next Page"] = true
 
 --Taxi
 L["Taxi"] = true
