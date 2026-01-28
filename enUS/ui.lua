@@ -143,3 +143,41 @@ L["Talents"] = true
 L["Specializations"] = true
 L["Specialization Info"] = true
 L["Glyphs"] = true
+
+--Object field labels
+L["Current"] = true
+L["Label"] = true
+L["Percent"] = true
+L["Formatted"] = true
+L["Active"] = true
+L["Status"] = true
+L["Name"] = true
+
+--Aura field labels
+L["Applications"] = true
+L["Aura Instance ID"] = true
+L["Can Apply Aura"] = true
+L["Charges"] = true
+L["Dispel Type"] = true
+L["Curse"] = true
+L["Disease"] = true
+L["Magic"] = true
+L["Poison"] = true
+L["Enrage"] = true
+L["Duration"] = true
+L["Expiration Time"] = true
+L["Icon"] = true
+L["Is Boss Aura"] = true
+L["Is From Player Or Pet"] = true
+L["Is Harmful"] = true
+L["Is Helpful"] = true
+L["Is Nameplate Only"] = true
+L["Is Raid"] = true
+L["Is Stealable"] = true
+L["Max Charges"] = true
+L["Nameplate Show All"] = true
+L["Nameplate Show Personal"] = true
+L["Points"] = true
+L["Source Unit"] = true
+L["Spell ID"] = true
+L["Time Mod"] = true
