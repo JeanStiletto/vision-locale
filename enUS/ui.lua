@@ -58,6 +58,12 @@ L["Remove"] = true
 L["Unlearn"] = true
 
 L["Empty"] = true
+L["None"] = true
+L["Type"] = true
+L["Select Type"] = true
+L["Power Type"] = true
+L["Unit"] = true
+L["Instance ID"] = true
 L["Items"] = true
 L["Options"] = true
 L["Scroll Up"] = true
