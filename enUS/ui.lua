@@ -64,6 +64,7 @@ L["Select Type"] = true
 L["Power Type"] = true
 L["Unit"] = true
 L["Instance ID"] = true
+L["Parameters"] = true
 L["Items"] = true
 L["Options"] = true
 L["Scroll Up"] = true
