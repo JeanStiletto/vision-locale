@@ -181,3 +181,11 @@ L["Points"] = true
 L["Source Unit"] = true
 L["Spell ID"] = true
 L["Time Mod"] = true
+
+--Buffer labels
+L["Objects"] = true
+L["Source"] = true
+L["New Buffer"] = true
+L["Select Buffer Type"] = true
+L["Buffer Not Found"] = true
+L["Buffer Group"] = true
