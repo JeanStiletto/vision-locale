@@ -9,6 +9,8 @@ L["Previous Buffer"] = true
 L["Next Buffer"] = true
 L["Previous Buffer Group"] = true
 L["Next Buffer Group"] = true
+L["Static Buffer"] = true
+L["Tracked Buffer"] = true
 
 -- Dynamic Buffers
 L["General"] = true
