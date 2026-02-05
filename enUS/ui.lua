@@ -184,8 +184,12 @@ L["Time Mod"] = true
 
 --Buffer labels
 L["Objects"] = true
+L["Object"] = true
 L["Source"] = true
 L["New Buffer"] = true
+L["New"] = true
 L["Select Buffer Type"] = true
 L["Buffer Not Found"] = true
 L["Buffer Group"] = true
+L["No object configured"] = true
+L["Empty Object"] = true

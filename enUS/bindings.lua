@@ -20,6 +20,10 @@ L["Previous"] = true
 L["Next Window"] = true
 L["Previous Window"] = true
 L["Read Tooltip"] = true
+L["Previous Tooltip Line"] = true
+L["Next Tooltip Line"] = true
+L["Read Tooltip Left"] = true
+L["Read Tooltip Right"] = true
 L["Destroy Cursor Item"] = true
 
 L["Previous Buffer Item"] = true
