@@ -193,3 +193,7 @@ L["Buffer Not Found"] = true
 L["Buffer Group"] = true
 L["No object configured"] = true
 L["Empty Object"] = true
+L["Template"] = true
+L["Custom"] = true
+L["Format"] = true
+L["Default"] = true
