@@ -166,6 +166,7 @@ L["Poison"] = true
 L["Enrage"] = true
 L["Duration"] = true
 L["Expiration Time"] = true
+L["Remaining Duration"] = true
 L["Icon"] = true
 L["Is Boss Aura"] = true
 L["Is From Player Or Pet"] = true
@@ -197,3 +198,13 @@ L["Template"] = true
 L["Custom"] = true
 L["Format"] = true
 L["Default"] = true
+
+--Time
+L["day"] = true
+L["days"] = true
+L["hour"] = true
+L["hours"] = true
+L["minute"] = true
+L["minutes"] = true
+L["second"] = true
+L["seconds"] = true
