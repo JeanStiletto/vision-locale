@@ -198,6 +198,9 @@ L["Template"] = true
 L["Custom"] = true
 L["Format"] = true
 L["Default"] = true
+L["Save"] = true
+L["Invalid parameters"] = true
+L["Parameters must identify a single object"] = true
 
 --Time
 L["day"] = true
