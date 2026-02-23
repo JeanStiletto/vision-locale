@@ -28,6 +28,7 @@ L["ProxyEditBox"] = "Edit"
 
 L["Panel"] = true
 L["List"] = true
+L["Bar"] = true
 
 --Common UI phrases
 L["Tabs"] = true
