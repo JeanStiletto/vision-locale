@@ -20,6 +20,7 @@ L["Previous"] = true
 L["Next Window"] = true
 L["Previous Window"] = true
 L["Read Tooltip"] = true
+L["Context Menu"] = true
 L["Previous Tooltip Line"] = true
 L["Next Tooltip Line"] = true
 L["Read Tooltip Left"] = true
