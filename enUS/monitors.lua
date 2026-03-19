@@ -42,6 +42,11 @@ L["Low Power (%)"] = true
 L["Power States"] = true
 L["Low power"] = true
 
+-- Spell field
+L["Spell"] = true
+L["Spell Name"] = true
+L["Spell ID"] = true
+
 -- Aura monitor
 L["Aura Monitor"] = true
 L["Aura Name"] = true
