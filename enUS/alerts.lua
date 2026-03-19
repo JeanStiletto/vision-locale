@@ -7,3 +7,4 @@ L["Speech Alert"] = true
 L["Sound Alert"] = true
 L["Voice Alert"] = true
 L["Priority Message (interrupts)"] = true
+L["Message"] = true

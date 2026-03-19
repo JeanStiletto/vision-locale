@@ -43,8 +43,13 @@ L["Power States"] = true
 L["Low power"] = true
 
 -- Aura monitor
+L["Aura Monitor"] = true
+L["Aura Name"] = true
+L["Aura State Rule"] = true
+L["Spell ID"] = true
 L["Missing"] = true
 L["Applied"] = true
+L["Pandemic"] = true
 L["Pandemic Window"] = true
 L["Expiring"] = true
 L["Aura Applied"] = true
@@ -53,3 +58,6 @@ L["Pandemic Window (%)"] = true
 L["Expiry Threshold (seconds)"] = true
 L["All Auras"] = true
 L["Units"] = true
+
+-- Keybindings
+L["Toggle All Monitors"] = true
