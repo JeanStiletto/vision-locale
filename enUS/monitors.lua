@@ -52,6 +52,7 @@ L["Aura Monitor"] = true
 L["Aura Name"] = true
 L["Aura State Rule"] = true
 L["Player Only"] = true
+L["Announce on Target Change"] = true
 L["Spell ID"] = true
 L["Missing"] = true
 L["Applied"] = true
