@@ -66,5 +66,21 @@ L["Expiry Threshold (seconds)"] = true
 L["All Auras"] = true
 L["Units"] = true
 
+-- Cooldown monitor
+L["Cooldown"] = true
+L["Cooldown Monitor"] = true
+L["Cooldown State Rule"] = true
+L["Ready"] = true
+L["Charging"] = true
+L["On Cooldown"] = true
+L["Charge Gained"] = true
+L["Charge Lost"] = true
+L["Remaining"] = true
+L["Is Ready"] = true
+L["Charges"] = true
+L["Max Charges"] = true
+L["Has Charges"] = true
+L["Start Time"] = true
+
 -- Keybindings
 L["Toggle All Monitors"] = true
