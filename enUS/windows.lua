@@ -79,6 +79,7 @@ L["New Player Friendly"] = true
 L["Activities"] = true
 L["Comment"] = true
 L["Roles"] = true
+L["Members"] = true
 
 --Loot
 L["Loot"] = true
