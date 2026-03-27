@@ -72,6 +72,14 @@ L["Item Text"] = true
 --Item Upgrade
 L["Item Upgrade"] = true
 
+--LFG
+L["Looking for Group"] = true
+L["Browse Groups"] = true
+L["New Player Friendly"] = true
+L["Activities"] = true
+L["Comment"] = true
+L["Roles"] = true
+
 --Loot
 L["Loot"] = true
 L["No loot."] = true
