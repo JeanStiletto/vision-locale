@@ -1,0 +1,38 @@
+local L = LibStub("AceLocale-3.0"):NewLocale("WowVision", "deDE")
+if not L then return end
+
+L["Navigation"] = "Navigation"
+L["Auto-move to Interact Target"] = "Automatisch zum Interaktionsziel bewegen"
+
+--Compass
+L["Compass"] = "Kompass"
+L["Speak Compass Direction"] = "Kompassrichtung ansagen"
+L["north"] = "Norden"
+L["northeast"] = "Nordosten"
+L["east"] = "Osten"
+L["southeast"] = "Südosten"
+L["south"] = "Süden"
+L["southwest"] = "Südwesten"
+L["west"] = "Westen"
+L["northwest"] = "Nordwesten"
+L["Outdoors Alert"] = "Draußen-Alarm"
+L["Indoors Alert"] = "Drinnen-Alarm"
+L["outdoors"] = "draußen"
+L["indoors"] = "drinnen"
+L["Flying Started Alert"] = "Flug-gestartet-Alarm"
+L["Flying Ended Alert"] = "Flug-beendet-Alarm"
+L["flying"] = "fliegen"
+L["flying ended"] = "Flug beendet"
+L["Swimming Alert"] = "Schwimm-Alarm"
+L["swimming"] = "schwimmen"
+L["Diving Alert"] = "Tauch-Alarm"
+L["diving"] = "tauchen"
+
+--Follow
+L["Follow"] = "Folgen"
+L["Play Sound on Follow or Unfollow"] = "Sound bei Folgen oder Entfolgen abspielen"
+
+--Maps
+L["Maps"] = "Karten"
+L["Zone Changed Alert"] = "Gebietsänderungs-Alarm"
+L["Subzone Changed Alert"] = "Untergebietsänderungs-Alarm"
