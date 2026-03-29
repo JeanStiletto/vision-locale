@@ -2,5 +2,6 @@
 ..\FrameXML\UI.xsd">
 
   <Include file="enUS/modules.xml" />
+  <Include file="deDE/modules.xml" />
 
 </Ui>
