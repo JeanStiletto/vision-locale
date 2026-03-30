@@ -6,6 +6,10 @@ L["Auctions"] = "Auktionen"
 L["Buyout Frame"] = "Sofortkauf-Fenster"
 L["Bid Frame"] = "Gebot-Fenster"
 
+L["Ascending"] = "Aufsteigend"
+L["Descending"] = "Absteigend"
+L["Sort Column"] = "Sortierspalte"
+
 L["Unit Price"] = "Stückpreis"
 L["Buyout Price"] = "Sofortkaufpreis"
 L["Bid Price"] = "Gebotspreis"
