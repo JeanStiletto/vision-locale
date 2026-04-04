@@ -5,8 +5,15 @@ L["Auctions"] = true
 L["Buyout Frame"] = true
 L["Bid Frame"] = true
 
+L["Ascending"] = true
+L["Descending"] = true
+L["Sort Column"] = true
+
+L["Filters"] = true
 L["Unit Price"] = true
+L["Starting Bid"] = true
 L["Buyout Price"] = true
+L["No Bids"] = true
 L["Bid Price"] = true
 L["Seller"] = true
 L["Sold"] = true
