@@ -53,3 +53,16 @@ L["Selected"] = "Ausgewählt"
 
 L["Min Stack Size"] = "Mindeststapelgröße"
 L["No Results"] = "Keine Ergebnisse"
+
+-- AH page scanner
+L["Scan"] = "Scannen"
+L["Abort Scan"] = "Scan abbrechen"
+L["Scan complete"] = "Scan abgeschlossen"
+L["Scan aborted"] = "Scan abgebrochen"
+L["Scan failed"] = "Scan fehlgeschlagen"
+L["Scan Results"] = "Scan-Ergebnisse"
+L["Scanning"] = "Scanne"
+L["scanned"] = "gescannt"
+L["Load More"] = "Mehr laden"
+L["Item purchased"] = "Gegenstand gekauft"
+L["Item not found"] = "Gegenstand nicht gefunden"
