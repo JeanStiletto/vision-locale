@@ -16,6 +16,7 @@
   <Script file="powers.lua" />
   <Script file="quests.lua" />
   <Script file="speech.lua" />
+  <Script file="surroundings.lua" />
   <Script file="targeting.lua" />
   <Script file="ui.lua" />
   <Script file="windows.lua" />
