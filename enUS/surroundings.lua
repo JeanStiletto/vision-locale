@@ -32,6 +32,9 @@ L["on to the %s"] = true
 L["way out of the water"] = true
 L["way out"] = true
 L["at the way out"] = true
+L["way out of the water to a dead end"] = true
+L["way out to a dead end"] = true
+L["at the way out to a dead end"] = true
 L["out to the %s"] = true
 
 -- the kinds of ways (said when a street begins on a square)
@@ -50,6 +53,7 @@ L["%s to the %s"] = true
 L["%s here"] = true
 L["%s and %s"] = true
 L["road to the %s"] = true
+L["street to the %s"] = true
 L["water"] = true
 L["cliff edge"] = true
 L["rock wall"] = true
