@@ -19,7 +19,6 @@ L["%s, drop into canal"] = true
 L["%s in %d yards, drop into water"] = true
 L["%s in %d yards, drop into canal"] = true
 L["%s in %d yards, drop %d yards"] = true
-L["%s in %d yards"] = true
 
 -- guidance to entrances, street beginnings and ways out of the water
 L["%d to the %s"] = true
