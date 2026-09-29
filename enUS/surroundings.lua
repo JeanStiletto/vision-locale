@@ -21,6 +21,8 @@ L["%s, canal"] = true
 L["%d %s, canal"] = true
 L["%s, lava"] = true
 L["%d %s, lava"] = true
+L["%s, moat"] = true
+L["%d %s, moat"] = true
 
 -- guidance to entrances, street beginnings and ways out of the water
 L["%d to the %s"] = true
@@ -32,6 +34,7 @@ L["in to the %s"] = true
 L["at the %s"] = true
 L["on to the %s"] = true
 L["way out of the water"] = true
+L["way out of the moat"] = true
 L["way out"] = true
 L["at the way out"] = true
 L["way out of the water to a dead end"] = true
