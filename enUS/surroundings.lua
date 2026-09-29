@@ -38,6 +38,13 @@ L["way out of the water to a dead end"] = true
 L["way out to a dead end"] = true
 L["at the way out to a dead end"] = true
 L["out to the %s"] = true
+-- doorways of big rooms and of the big halls inside (Ironforge), the way out of a building
+L["doorway"] = true
+L["at the doorway"] = true
+L["at the doorway to %s"] = true
+L["through to the %s"] = true
+L["way outside"] = true
+L["at the way outside"] = true
 
 -- the kinds of ways (said when a street begins on a square)
 L["street"] = true
@@ -46,6 +53,7 @@ L["bridge"] = true
 L["fork"] = true
 L["crossing"] = true
 L["quay"] = true
+L["pier"] = true
 L["canal walk"] = true
 L["slime canal walk"] = true
 L["walk along the lava"] = true
@@ -53,7 +61,6 @@ L["walk along the lava"] = true
 -- what lies around
 L["%s to the %s"] = true
 L["%s here"] = true
-L["pier"] = true
 L["%s and %s"] = true
 L["road to the %s"] = true
 L["street to the %s"] = true
@@ -63,6 +70,9 @@ L["rock wall"] = true
 L["canal"] = true
 L["room unknown"] = true
 L["place unknown"] = true
+-- rooms: which way winding stairs turn going up
+L["winding, turns left going up"] = true
+L["winding, turns right going up"] = true
 
 -- turn hints
 
