@@ -13,12 +13,12 @@ L["Quieter While a Beacon Guides"] = true
 L["Name What I Bump Into"] = true
 
 -- drop edges: the direction first, then the drop
-L["%s, drop %d yards"] = true
-L["%s, drop into water"] = true
-L["%s, drop into canal"] = true
-L["%s in %d yards, drop into water"] = true
-L["%s in %d yards, drop into canal"] = true
-L["%s in %d yards, drop %d yards"] = true
+L["%s, drop %d"] = true
+L["%d %s, drop %d"] = true
+L["%s, water"] = true
+L["%d %s, water"] = true
+L["%s, canal"] = true
+L["%d %s, canal"] = true
 
 -- guidance to entrances, street beginnings and ways out of the water
 L["%d to the %s"] = true
@@ -62,8 +62,6 @@ L["room unknown"] = true
 L["place unknown"] = true
 
 -- turn hints
-L["turn slightly left"] = true
-L["turn slightly right"] = true
 
 -- what the player bumps into
 L["wall"] = true
