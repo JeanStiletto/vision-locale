@@ -19,6 +19,8 @@ L["%s, water"] = true
 L["%d %s, water"] = true
 L["%s, canal"] = true
 L["%d %s, canal"] = true
+L["%s, lava"] = true
+L["%d %s, lava"] = true
 
 -- guidance to entrances, street beginnings and ways out of the water
 L["%d to the %s"] = true
