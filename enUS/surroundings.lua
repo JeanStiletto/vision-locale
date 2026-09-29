@@ -53,6 +53,7 @@ L["walk along the lava"] = true
 -- what lies around
 L["%s to the %s"] = true
 L["%s here"] = true
+L["pier"] = true
 L["%s and %s"] = true
 L["road to the %s"] = true
 L["street to the %s"] = true
