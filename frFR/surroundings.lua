@@ -70,6 +70,7 @@ L["left"] = "à gauche"
 L["right"] = "à droite"
 L["wall"] = "mur"
 L["wall of %s"] = "mur de %s"
+L["%s, side"] = "%s, côté"
 L["Quieter While a Beacon Guides"] = "Plus discret pendant le guidage par balise"
 
 -- where one waits for a ship, zeppelin, lift or the Deeprun Tram (stops)

@@ -82,6 +82,7 @@ L["winding, turns right going up"] = true
 -- what the player bumps into
 L["wall"] = true
 L["wall of %s"] = true
+L["%s, side"] = true
 
 -- where one waits for a ship, zeppelin, lift or the Deeprun Tram (stops)
 L["wait for the ship to %s"] = true
