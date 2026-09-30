@@ -67,6 +67,7 @@ L["Name What I Bump Into"] = "Benennen, wogegen ich laufe"
 L["Turn Hints on Roads and Streets"] = "Drehhinweise auf Straßen und Wegen"
 L["wall"] = "Wand"
 L["wall of %s"] = "Wand von %s"
+L["%s, side"] = "%s, Seitenwand"
 L["Quieter While a Beacon Guides"] = "Leiser, solange ein Leuchtfeuer führt"
 
 -- where one waits for a ship, zeppelin, lift or the Deeprun Tram (stops)
