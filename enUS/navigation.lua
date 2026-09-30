@@ -78,6 +78,7 @@ L["Previous Waypoint"] = true
 L["remaining"] = true
 L["End of route"] = true
 L["Start of route"] = true
+L["last %d yards direct"] = true
 L["Arrival Distance"] = true
 L["Cycle Arrival Distance"] = true
 L["Short Range"] = true
