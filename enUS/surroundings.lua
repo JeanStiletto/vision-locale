@@ -26,6 +26,7 @@ L["%d %s, moat"] = true
 
 -- guidance to entrances, street beginnings and ways out of the water
 L["%d to the %s"] = true
+L["%d %s"] = true
 L["entrance"] = true
 L["entrance of %s"] = true
 L["at the entrance"] = true

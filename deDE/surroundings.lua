@@ -24,6 +24,7 @@ L["way out of the water to a dead end"] = "Ausstieg aus dem Wasser in eine Sackg
 L["way out to a dead end"] = "Ausstieg in eine Sackgasse"
 L["at the way out to a dead end"] = "am Ausstieg in eine Sackgasse"
 L["%d to the %s"] = "%d Meter im %s"
+L["%d %s"] = "%d %s"
 L["in to the %s"] = "hinein nach %s"
 L["out to the %s"] = "hinaus nach %s"
 L["doorway"] = "Durchgang"
