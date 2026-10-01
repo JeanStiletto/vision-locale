@@ -184,6 +184,7 @@ L["Controls"] = true
 L["Column"] = true
 L["This tab is not supported yet"] = true
 L["Bag Menu"] = true
+L["Close Bag"] = true
 L["Sort Bags"] = true
 L["Quest Item"] = true
 L["Junk"] = true
