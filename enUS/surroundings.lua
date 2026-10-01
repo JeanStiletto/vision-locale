@@ -98,3 +98,31 @@ L["ship to the %s"] = true
 L["zeppelin to the %s"] = true
 L["tram to the %s"] = true
 L["lift to the %s"] = true
+
+-- clock hours instead of compass words (the compass module's Directions setting): the hours
+-- are bare numbers, "o'clock" once where a text names several or a yard count comes before one
+L["o'clock"] = true
+L["%s to %s"] = true
+L["%s at %s"] = true
+L["%d yards at %s"] = true
+L["%d at %s"] = true
+L["in at %s"] = true
+L["out at %s"] = true
+L["through at %s"] = true
+L["on at %s"] = true
+L["road at %s"] = true
+L["street at %s"] = true
+L["ship at %s"] = true
+L["zeppelin at %s"] = true
+L["tram at %s"] = true
+L["lift at %s"] = true
+L["at %s, drop %d"] = true
+L["%d at %s, drop %d"] = true
+L["at %s, water"] = true
+L["%d at %s, water"] = true
+L["at %s, canal"] = true
+L["%d at %s, canal"] = true
+L["at %s, lava"] = true
+L["%d at %s, lava"] = true
+L["at %s, moat"] = true
+L["%d at %s, moat"] = true

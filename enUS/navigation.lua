@@ -85,3 +85,8 @@ L["Short Range"] = true
 L["Medium Range"] = true
 L["Long Range"] = true
 L["Arrival Radius"] = true
+
+-- compass words or clock hours, for every direction WowVision speaks (the surroundings too)
+L["Directions"] = true
+L["Compass Words"] = true
+L["Clock Hours"] = true

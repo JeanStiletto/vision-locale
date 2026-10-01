@@ -76,3 +76,8 @@ L["Short Range"] = "Kurze Distanz"
 L["Medium Range"] = "Mittlere Distanz"
 L["Long Range"] = "Weite Distanz"
 L["Arrival Radius"] = "Ankunftsradius"
+
+-- Himmelsrichtungen oder Uhrzeiten, für jede Richtung, die WowVision ansagt (auch die Umgebung)
+L["Directions"] = "Richtungen"
+L["Compass Words"] = "Himmelsrichtungen"
+L["Clock Hours"] = "Uhrzeiten"
