@@ -192,7 +192,6 @@ L["Locked"] = true
 L["Add Slots"] = true
 L["Bag Controls"] = true
 L["Bag Slots"] = true
-L["Closed Bags"] = true
 L["Keyring"] = true
 L["Bank Tabs"] = true
 L["Bank Controls"] = true
