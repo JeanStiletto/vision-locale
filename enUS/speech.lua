@@ -12,4 +12,3 @@ L["Buffered"] = true
 L["Speech Queue"] = true
 L["Sound Between Chat Lines"] = true
 L["Activity Sound When Unfocused"] = true
-L["WowVision turned off the game's sound between spoken chat lines. You can turn it back on in the Speech settings."] = true
