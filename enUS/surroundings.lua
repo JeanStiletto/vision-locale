@@ -77,9 +77,8 @@ L["rock wall"] = true
 L["canal"] = true
 L["room unknown"] = true
 L["place unknown"] = true
--- rooms: which way winding stairs turn going up
-L["winding, turns left going up"] = true
-L["winding, turns right going up"] = true
+-- rooms: winding stairs (no way up or down said, user 2026-10-04)
+L["winding"] = true
 
 -- turn hints
 
