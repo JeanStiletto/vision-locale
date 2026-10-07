@@ -9,6 +9,7 @@ L["Describe Surroundings"] = true
 L["Warn at Drop Edges"] = true
 L["Guide to Entrances, Streets and Ways Out"] = true
 L["Turn Hints on Roads and Streets"] = true
+L["Guide Up Stairs on Their Wall Side"] = true
 L["Quieter While a Beacon Guides"] = true
 L["Name What I Bump Into"] = true
 
