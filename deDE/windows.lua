@@ -96,6 +96,8 @@ L["Activities"] = "Aktivitäten"
 L["Comment"] = "Kommentar"
 L["Roles"] = "Rollen"
 L["Members"] = "Mitglieder"
+L["Play Style"] = "Spielstil"
+L["Invite"] = "Einladen"
 
 --Loot
 L["Loot"] = "Beute"
