@@ -155,6 +155,25 @@ L["Red"] = "Rot"
 L["Range"] = "Reichweite"
 L["Range Changed"] = "Reichweite geändert"
 
+--Legacy (WoW: Forever)
+L["Legacy"] = "Vermächtnis"
+L["Challenges"] = "Herausforderungen"
+L["Completed"] = "Abgeschlossen"
+L["Tracked"] = "Verfolgt"
+L["Earned"] = "Erhalten"
+L["Trees"] = "Bäume"
+L["Row"] = "Reihe"
+L["Choice"] = "Auswahl"
+L["Learn"] = "Erlernen"
+L["Invalid"] = "Ungültig"
+L["Requires %s"] = "Benötigt %s"
+L["Search Match"] = "Suchtreffer"
+L["Buy Back"] = "Zurückkaufen"
+L["Points spent: %s"] = "Ausgegebene Punkte: %s"
+L["Unsaved Changes"] = "Ungespeicherte Änderungen"
+L["Undo Changes"] = "Änderungen rückgängig machen"
+L["Reset Tree"] = "Baum zurücksetzen"
+
 --Professions
 L["Professions"] = "Berufe"
 
