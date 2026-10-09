@@ -158,6 +158,7 @@ L["Challenges"] = true
 L["Completed"] = true
 L["Tracked"] = true
 L["Earned"] = true
+L["Point"] = true
 L["Trees"] = true
 L["Row"] = true
 L["Choice"] = true
