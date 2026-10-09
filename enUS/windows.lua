@@ -152,6 +152,25 @@ L["Red"] = true
 L["Range"] = true
 L["Range Changed"] = true
 
+--Legacy (WoW: Forever)
+L["Legacy"] = true
+L["Challenges"] = true
+L["Completed"] = true
+L["Tracked"] = true
+L["Earned"] = true
+L["Trees"] = true
+L["Row"] = true
+L["Choice"] = true
+L["Learn"] = true
+L["Invalid"] = true
+L["Requires %s"] = true
+L["Search Match"] = true
+L["Buy Back"] = true
+L["Points spent: %s"] = true
+L["Unsaved Changes"] = true
+L["Undo Changes"] = true
+L["Reset Tree"] = true
+
 --Professions
 L["Professions"] = true
 
