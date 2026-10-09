@@ -160,7 +160,6 @@ L["Invalid"] = true
 L["Requires %s"] = true
 L["or"] = true
 L["Search Match"] = true
-L["Buy Back"] = true
 L["Unsaved Changes"] = true
 L["Undo Changes"] = true
 L["Reset Tree"] = true
