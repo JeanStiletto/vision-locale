@@ -67,6 +67,11 @@ L["room unknown"] = "pièce inconnue"
 L["place unknown"] = "lieu inconnu"
 L["winding"] = "en colimaçon"
 L["Name What I Bump Into"] = "Nommer ce que je heurte"
+L["Discovery Mode: Places List Names Only Explored Subzones"] = "Mode découverte : la liste des lieux ne nomme que les zones explorées"
+
+-- the places list (Alt-F10)
+L["Places"] = "Lieux"
+L["unexplored area"] = "zone inexplorée"
 L["Turn Hints on Roads and Streets"] = "Indications de direction sur routes et rues"
 L["Guide Up Stairs on Their Wall Side"] = "Guider dans les escaliers du côté du mur"
 L["left"] = "à gauche"

@@ -12,6 +12,11 @@ L["Turn Hints on Roads and Streets"] = true
 L["Guide Up Stairs on Their Wall Side"] = true
 L["Quieter While a Beacon Guides"] = true
 L["Name What I Bump Into"] = true
+L["Discovery Mode: Places List Names Only Explored Subzones"] = true
+
+-- the places list (Alt-F10)
+L["Places"] = true
+L["unexplored area"] = true
 
 -- drop edges: the direction first, then the drop
 L["%s, drop %d"] = true
