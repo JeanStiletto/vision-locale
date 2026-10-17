@@ -105,6 +105,7 @@ L["lowest"] = true
 L["highest"] = true
 L["Back on the route"] = true
 L["Calculating route"] = true
+L["Searching the route again with the new road preference"] = true
 L["No WowNav network here"] = true
 L["No WowNav network at the target"] = true
 L["then the %s"] = true
