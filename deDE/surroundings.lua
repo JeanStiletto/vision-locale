@@ -119,3 +119,10 @@ L["at %s, lava"] = "auf %s, Lava"
 L["%d at %s, lava"] = "%d auf %s, Lava"
 L["at %s, moat"] = "auf %s, Graben"
 L["%d at %s, moat"] = "%d auf %s, Graben"
+
+-- die Gebäudehilfe (Alt und die Ausrichtetaste): eine Peilroute durch den nächsten Ausgang
+L["Lead Through the Next Exit"] = "Durch den nächsten Ausgang führen"
+L["No exit nearby"] = "Kein Ausgang in der Nähe"
+L["Leading to %s"] = "Führung zu %s"
+L["Leading along the climb"] = "Führung entlang des Aufgangs"
+L["the line ends before the top"] = "die Linie endet vor dem oberen Ende"

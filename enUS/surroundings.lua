@@ -134,3 +134,10 @@ L["at %s, lava"] = true
 L["%d at %s, lava"] = true
 L["at %s, moat"] = true
 L["%d at %s, moat"] = true
+
+-- the building helper (Alt plus the turn key): a beacon route through the next exit
+L["Lead Through the Next Exit"] = true
+L["No exit nearby"] = true
+L["Leading to %s"] = true
+L["Leading along the climb"] = true
+L["the line ends before the top"] = true
