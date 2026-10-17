@@ -93,3 +93,25 @@ L["Arrival Radius"] = true
 L["Directions"] = true
 L["Compass Words"] = true
 L["Clock Hours"] = true
+
+-- WowNav routes (camelot/wownav, WoW: Forever)
+L["WowNav Routes"] = true
+L["Routes from WowNav"] = true
+L["Road Preference (Percent Longer)"] = true
+L["Choose your floor"] = true
+L["Choose the target's floor"] = true
+L["Floor %d of %d"] = true
+L["lowest"] = true
+L["highest"] = true
+L["Back on the route"] = true
+L["Calculating route"] = true
+L["No WowNav network here"] = true
+L["No WowNav network at the target"] = true
+L["then the %s"] = true
+L["Use the %s; the route goes on after it"] = true
+L["The route goes on"] = true
+L["portal"] = true
+L["tram"] = true
+L["lift"] = true
+L["transit"] = true
+L["Turn off the WowVisionNavigation addon to use its routes here"] = true
