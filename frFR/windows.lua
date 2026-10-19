@@ -250,3 +250,10 @@ L["Alert Editor"] = "Éditeur d'alertes"
 L["Reload Interface"] = "Recharger l'interface"
 L["Changes made here apply after the interface reloads. A Reload Interface button is at the end of the window."] = "Les modifications faites ici s'appliquent après le rechargement de l'interface. Un bouton Recharger l'interface se trouve à la fin de la fenêtre."
 L["Cooldown manager changes apply after you reload the interface. Type /reload when ready."] = "Les modifications du gestionnaire des temps de recharge s'appliquent après le rechargement de l'interface. Tapez /reload quand vous êtes prêt."
+
+-- Chat channels window
+L["Chat Channels"] = "Canaux de discussion"
+L["Channels"] = "Canaux"
+L["Owner"] = "Propriétaire"
+L["Moderator"] = "Modérateur"
+L["Offline"] = "Hors ligne"
