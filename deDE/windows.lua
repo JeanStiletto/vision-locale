@@ -240,3 +240,7 @@ L["Offline"] = "Offline"
 L["Battle.net"] = "Battle.net"
 L["Summon"] = "Herbeirufen"
 L["Extended"] = "Verlängert"
+
+-- Social window (WoW: Forever)
+L["Social"] = "Kontakte"
+L["Copy BattleTag"] = "BattleTag kopieren"
