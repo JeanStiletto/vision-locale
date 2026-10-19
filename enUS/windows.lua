@@ -286,3 +286,7 @@ L["Offline"] = true
 L["Battle.net"] = true
 L["Summon"] = true
 L["Extended"] = true
+
+-- Social window (WoW: Forever)
+L["Social"] = true
+L["Copy BattleTag"] = true
