@@ -281,3 +281,8 @@ L["Channels"] = true
 L["Owner"] = true
 L["Moderator"] = true
 L["Offline"] = true
+
+-- Friends window (WoW: Forever)
+L["Battle.net"] = true
+L["Summon"] = true
+L["Extended"] = true

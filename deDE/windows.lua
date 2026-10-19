@@ -235,3 +235,8 @@ L["Channels"] = "Kanäle"
 L["Owner"] = "Besitzer"
 L["Moderator"] = "Moderator"
 L["Offline"] = "Offline"
+
+-- Friends window (WoW: Forever)
+L["Battle.net"] = "Battle.net"
+L["Summon"] = "Herbeirufen"
+L["Extended"] = "Verlängert"
