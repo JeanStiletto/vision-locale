@@ -288,3 +288,12 @@ L["Summon"] = true
 L["Extended"] = true
 L["Social"] = true
 L["Copy BattleTag"] = true
+
+-- Guild invitation, guild and communities window, guild control
+L["Guild Invitation"] = true
+L["Guild and Communities"] = true
+L["Guild Control"] = true
+L["Messages"] = true
+L["Sort By"] = true
+L["Maximize"] = true
+L["Minimize"] = true
