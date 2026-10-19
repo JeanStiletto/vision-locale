@@ -242,3 +242,12 @@ L["Summon"] = "Herbeirufen"
 L["Extended"] = "Verlängert"
 L["Social"] = "Kontakte"
 L["Copy BattleTag"] = "BattleTag kopieren"
+
+-- Guild invitation, guild and communities window, guild control
+L["Guild Invitation"] = "Gildeneinladung"
+L["Guild and Communities"] = "Gilde und Communitys"
+L["Guild Control"] = "Gildenverwaltung"
+L["Messages"] = "Nachrichten"
+L["Sort By"] = "Sortieren nach"
+L["Maximize"] = "Maximieren"
+L["Minimize"] = "Minimieren"
