@@ -236,11 +236,9 @@ L["Owner"] = "Besitzer"
 L["Moderator"] = "Moderator"
 L["Offline"] = "Offline"
 
--- Friends window (WoW: Forever)
+-- Social window (WoW: Forever)
 L["Battle.net"] = "Battle.net"
 L["Summon"] = "Herbeirufen"
 L["Extended"] = "Verlängert"
-
--- Social window (WoW: Forever)
 L["Social"] = "Kontakte"
 L["Copy BattleTag"] = "BattleTag kopieren"
