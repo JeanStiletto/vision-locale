@@ -274,3 +274,17 @@ L["Reload Interface"] = true
 L["Changes made here apply after the interface reloads. A Reload Interface button is at the end of the window."] = true
 L["Cooldown manager changes apply after you reload the interface. Type /reload when ready."] = true
 L["Questie Setup"] = true
+
+-- Chat channels window
+L["Chat Channels"] = true
+L["Channels"] = true
+L["Owner"] = true
+L["Moderator"] = true
+L["Offline"] = true
+
+-- Social window (WoW: Forever)
+L["Battle.net"] = true
+L["Summon"] = true
+L["Extended"] = true
+L["Social"] = true
+L["Copy BattleTag"] = true

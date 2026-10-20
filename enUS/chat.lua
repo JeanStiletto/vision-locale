@@ -27,5 +27,6 @@ L["Player Menu for %s"] = true
 L["Who %s"] = true
 L["Write to %s"] = true
 L["Channel Menu for %s"] = true
+L["Chat Channels Window"] = true
 L["Read Tooltip of %s"] = true
 L["Link %s in Chat"] = true

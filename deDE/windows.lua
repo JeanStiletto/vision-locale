@@ -228,3 +228,17 @@ L["Open"] = "Öffnen"
 L["Equip"] = "Anlegen"
 L["Read"] = "Lesen"
 L["Use"] = "Benutzen"
+
+-- Chat channels window
+L["Chat Channels"] = "Chatkanäle"
+L["Channels"] = "Kanäle"
+L["Owner"] = "Besitzer"
+L["Moderator"] = "Moderator"
+L["Offline"] = "Offline"
+
+-- Social window (WoW: Forever)
+L["Battle.net"] = "Battle.net"
+L["Summon"] = "Herbeirufen"
+L["Extended"] = "Verlängert"
+L["Social"] = "Kontakte"
+L["Copy BattleTag"] = "BattleTag kopieren"
