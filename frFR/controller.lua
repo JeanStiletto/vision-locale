@@ -29,3 +29,8 @@ L["Gamepad Bar"] = "Barre de manette"
 L["Left Trigger Bar"] = "Barre gâchette gauche"
 L["Right Trigger Bar"] = "Barre gâchette droite"
 L["Both Triggers Bar"] = "Barre deux gâchettes"
+
+L["Gamepad Main Menu"] = "Menu principal de la manette"
+L["Page %d of %d"] = "Page %d sur %d"
+L["opened"] = "ouvert"
+L["Not supported yet"] = "Pas encore pris en charge"

@@ -30,3 +30,9 @@ L["Gamepad Bar"] = true
 L["Left Trigger Bar"] = true
 L["Right Trigger Bar"] = true
 L["Both Triggers Bar"] = true
+
+-- The gamepad main menu (camelot/gamepadRadial.lua).
+L["Gamepad Main Menu"] = true
+L["Page %d of %d"] = true
+L["opened"] = true
+L["Not supported yet"] = true

@@ -29,3 +29,8 @@ L["Gamepad Bar"] = "Gamepad-Leiste"
 L["Left Trigger Bar"] = "Leiste linker Trigger"
 L["Right Trigger Bar"] = "Leiste rechter Trigger"
 L["Both Triggers Bar"] = "Leiste beide Trigger"
+
+L["Gamepad Main Menu"] = "Gamepad-Hauptmenü"
+L["Page %d of %d"] = "Seite %d von %d"
+L["opened"] = "geöffnet"
+L["Not supported yet"] = "Noch nicht unterstützt"
