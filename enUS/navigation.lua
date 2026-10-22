@@ -200,6 +200,10 @@ L["On the zeppelin"] = true
 L["At the vehicle"] = true
 L["%s is near; I turns you toward it"] = true
 L["Ride to %s with %s: wait here, board by ear and get off at the last stop. Near it, I turns you toward the dock."] = true
+L["Minimum Arrival Distance for WowNav Waypoints (0 = Their Own)"] = true
+L["Group"] = true
+L["No position of the group member available"] = true
+L["The target is no longer available; no new route"] = true
 L[" (inexact +%.1f yards%s)"] = true
 L[" horizontal, height unknown"] = true
 L[" vertical"] = true
