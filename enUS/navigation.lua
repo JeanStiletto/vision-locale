@@ -199,6 +199,7 @@ L["On the ship"] = true
 L["On the zeppelin"] = true
 L["At the vehicle"] = true
 L["%s is near; I turns you toward it"] = true
+L["Ride to %s with %s: wait here, board by ear and get off at the last stop. Near it, I turns you toward the dock."] = true
 L["The boarding point proof or the map changed; guidance ended"] = true
 L["branch"] = true
 L["corner"] = true
