@@ -74,7 +74,6 @@ L["Turn to Waypoint"] = true
 L["Turning is not available here"] = true
 L["Pitch Lock"] = true
 L["WowVision set the camera to always follow behind your character, which turning to waypoints needs. You can change the camera following style in the game options under Controls."] = true
-L["WowVision set Turn With Camera to Always, so your character turns with the camera, which turning to waypoints needs. You can change it in the game options under Gamepad."] = true
 L["No active waypoint"] = true
 L["Next Waypoint"] = true
 L["Previous Waypoint"] = true
