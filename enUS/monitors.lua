@@ -82,5 +82,13 @@ L["Max Charges"] = true
 L["Has Charges"] = true
 L["Start Time"] = true
 
+-- Cooldown manager auras (retail/monitors/CdmAuraMonitor.lua)
+L["Cooldown Manager Auras"] = true
+L["Cooldown Manager Aura Rule"] = true
+L["Target"] = true
+L["One Decimal Timer"] = true
+L["Speak Tracked Auras"] = true
+L["No tracked auras"] = true
+
 -- Keybindings
 L["Toggle All Monitors"] = true
