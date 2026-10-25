@@ -298,11 +298,6 @@ L["Sort By"] = true
 L["Maximize"] = true
 L["Minimize"] = true
 
--- TBC windows: craft window, stable, classic guild tab
-L["Craft"] = true
-L["Stable"] = true
-L["Stable slot %d"] = true
-L["Selected Pet"] = true
-L["Slots"] = true
+-- Classic guild window (guild tab of the friends window, TBC Anniversary)
 L["Rank Name"] = true
 L["Permissions"] = true

@@ -274,11 +274,6 @@ L["Sort By"] = "Trier par"
 L["Maximize"] = "Agrandir"
 L["Minimize"] = "Réduire"
 
--- TBC windows: craft window, stable, classic guild tab
-L["Craft"] = "Artisanat"
-L["Stable"] = "Écurie"
-L["Stable slot %d"] = "Emplacement d'écurie %d"
-L["Selected Pet"] = "Familier sélectionné"
-L["Slots"] = "Emplacements"
+-- Classic guild window (guild tab of the friends window, TBC Anniversary)
 L["Rank Name"] = "Nom du rang"
 L["Permissions"] = "Autorisations"
