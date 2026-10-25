@@ -297,3 +297,7 @@ L["Messages"] = true
 L["Sort By"] = true
 L["Maximize"] = true
 L["Minimize"] = true
+
+-- Classic guild window (guild tab of the friends window, TBC Anniversary)
+L["Rank Name"] = true
+L["Permissions"] = true

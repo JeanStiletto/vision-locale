@@ -273,3 +273,7 @@ L["Messages"] = "Messages"
 L["Sort By"] = "Trier par"
 L["Maximize"] = "Agrandir"
 L["Minimize"] = "Réduire"
+
+-- Classic guild window (guild tab of the friends window, TBC Anniversary)
+L["Rank Name"] = "Nom du rang"
+L["Permissions"] = "Autorisations"
