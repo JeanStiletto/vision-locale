@@ -89,7 +89,7 @@ L["Target"] = true
 L["One Decimal Timer"] = true
 L["Speak Tracked Auras"] = true
 L["No tracked auras"] = true
-L["No cooldown manager spells"] = true
+L["No tracked buffs or bars"] = true
 
 -- Keybindings
 L["Toggle All Monitors"] = true
