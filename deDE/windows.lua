@@ -251,3 +251,12 @@ L["Messages"] = "Nachrichten"
 L["Sort By"] = "Sortieren nach"
 L["Maximize"] = "Maximieren"
 L["Minimize"] = "Minimieren"
+
+-- TBC windows: craft window, stable, classic guild tab
+L["Craft"] = "Handwerk"
+L["Stable"] = "Stall"
+L["Stable slot %d"] = "Stallplatz %d"
+L["Selected Pet"] = "Ausgewähltes Tier"
+L["Slots"] = "Plätze"
+L["Rank Name"] = "Rangname"
+L["Permissions"] = "Rechte"
