@@ -264,3 +264,12 @@ L["Summon"] = "Invoquer"
 L["Extended"] = "Prolongé"
 L["Social"] = "Social"
 L["Copy BattleTag"] = "Copier le BattleTag"
+
+-- TBC windows: craft window, stable, classic guild tab
+L["Craft"] = "Artisanat"
+L["Stable"] = "Écurie"
+L["Stable slot %d"] = "Emplacement d'écurie %d"
+L["Selected Pet"] = "Familier sélectionné"
+L["Slots"] = "Emplacements"
+L["Rank Name"] = "Nom du rang"
+L["Permissions"] = "Autorisations"

@@ -288,3 +288,12 @@ L["Summon"] = true
 L["Extended"] = true
 L["Social"] = true
 L["Copy BattleTag"] = true
+
+-- TBC windows: craft window, stable, classic guild tab
+L["Craft"] = true
+L["Stable"] = true
+L["Stable slot %d"] = true
+L["Selected Pet"] = true
+L["Slots"] = true
+L["Rank Name"] = true
+L["Permissions"] = true
