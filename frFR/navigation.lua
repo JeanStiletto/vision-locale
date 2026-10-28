@@ -40,6 +40,7 @@ L["Beacon"] = "Balise"
 L["Beacon Sound"] = "Son de la balise"
 L["Beacon Aligned"] = "Balise alignée"
 L["Beacon Off Course"] = "Balise hors trajectoire"
+L["Silent While Facing the Beacon"] = "Silence face à la balise"
 L["Waypoint Reached"] = "Point de passage atteint"
 
 --Atlas
