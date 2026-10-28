@@ -39,7 +39,7 @@ L["Beacon"] = true
 L["Beacon Sound"] = true
 L["Beacon Aligned"] = true
 L["Beacon Off Course"] = true
-L["Silent While Facing the Beacon"] = true
+L["Beacon Silent on Ways With a Direction"] = true
 L["Waypoint Reached"] = true
 
 --Atlas
