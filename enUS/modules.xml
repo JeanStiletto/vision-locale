@@ -7,6 +7,7 @@
   <Script file="buffers.lua" />
   <Script file="chat.lua" />
   <Script file="colors.lua" />
+  <Script file="controller.lua" />
   <Script file="errors.lua" />
   <Script file="misc.lua" />
   <Script file="minimap.lua" />
