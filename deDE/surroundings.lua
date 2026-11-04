@@ -76,7 +76,7 @@ L["Guide Up Stairs on Their Wall Side"] = "Treppen an der Wandseite hinaufführe
 L["wall"] = "Wand"
 L["wall of %s"] = "Wand von %s"
 L["%s, side"] = "%s, Seitenwand"
-L["Quieter While a Beacon Guides"] = "Leiser, solange ein Leuchtfeuer führt"
+L["Quieter While a Beacon Guides"] = "Leiser, solange ein Signal führt"
 
 -- where one waits for a ship, zeppelin, lift or the Deeprun Tram (stops)
 L["wait for the ship to %s"] = "Warten auf das Schiff nach %s"
