@@ -62,4 +62,4 @@ L["Read Guild"] = true
 L["Read PvP and Faction"] = true
 L["Read Quest Lines"] = true
 L["Read Pet Owner"] = true
-L["Read Other Lines"] = true
+L["Read Other Information"] = true
