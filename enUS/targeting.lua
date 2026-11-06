@@ -61,5 +61,6 @@ L["Read Level and Type"] = true
 L["Read Guild"] = true
 L["Read PvP and Faction"] = true
 L["Read Quest Lines"] = true
+L["Read Threat"] = true
 L["Read Pet Owner"] = true
 L["Read Other Information"] = true
