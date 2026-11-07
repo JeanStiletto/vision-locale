@@ -7,12 +7,6 @@ L["Interrupt Speech on Window Close"] = "Sprache beim Schließen des Fensters un
 L["Letter Navigation in Menus"] = "Buchstaben-Navigation in Menüs"
 L["Skip Empty Slots on Double Arrow"] = "Leere Plätze beim doppelten Pfeildruck überspringen"
 L["WowVision Sound Channel"] = "WowVision-Soundkanal"
-L["Master"] = "Gesamt"
-L["Sound Effects"] = "Soundeffekte"
-L["Music"] = "Musik"
-L["Ambience"] = "Umgebung"
-L["Dialog"] = "Dialog"
-L["Gameplay Sound Effects"] = "Gameplay-Soundeffekte"
 L["No results"] = "Keine Ergebnisse"
 
 --Combat

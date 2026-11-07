@@ -6,12 +6,6 @@ L["Interrupt Speech on Window Close"] = true
 L["Letter Navigation in Menus"] = true
 L["Skip Empty Slots on Double Arrow"] = true
 L["WowVision Sound Channel"] = true
-L["Master"] = true
-L["Sound Effects"] = true
-L["Music"] = true
-L["Ambience"] = true
-L["Dialog"] = true
-L["Gameplay Sound Effects"] = true
 L["No results"] = true
 L["Reload, then search settings for Discord, to use this"] = true
 
