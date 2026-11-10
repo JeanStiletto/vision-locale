@@ -37,6 +37,10 @@ L["mouselook"] = true
 L["window"] = true
 L["Turn on friendly NPC nameplates to learn NPC names"] = true
 L["Points of Interest"] = true
+-- Quest titles on the minimap: a quest's area, or the arrow at the rim toward it
+L["Quest Areas"] = true
+L["Quest Directions"] = true
+L["quest area"] = true
 L["Tracking"] = true
 L["Minimap Tracking"] = true
 L["Map Filter"] = true
