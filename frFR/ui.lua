@@ -6,8 +6,12 @@ L["UI"] = "Interface"
 L["Interrupt Speech on Window Close"] = "Interrompre la parole à la fermeture d'une fenêtre"
 L["Sounds on Opening and Closing WowVision Menus"] = "Sons à l'ouverture et à la fermeture des menus WowVision"
 L["Letter Navigation in Menus"] = "Navigation par lettres dans les menus"
-L["Skip Empty Slots on Double Arrow"] = "Sauter les emplacements vides par double appui sur une flèche"
+L["Letter Navigation"] = "Navigation par lettres"
+L["Filter removed"] = "Filtre retiré"
+L["All windows closed"] = "Toutes les fenêtres fermées"
+L["Close All Windows"] = "Fermer toutes les fenêtres"
 L["WowVision Sound Channel"] = "Canal sonore de WowVision"
+L["Skip Empty Slots on Double Arrow"] = "Sauter les emplacements vides par double appui sur une flèche"
 L["No results"] = "Aucun résultat"
 
 --Combat
@@ -243,6 +247,10 @@ L["Scope"] = "Portée"
 L["Global"] = "Global"
 L["Glyphs not yet implemented"] = "Glyphes pas encore implémentés"
 
+-- Same English word as Disabled / Available, but a different word in some languages
+L["SettingDisabled"] = "Désactivé"
+L["AuctionAvailable"] = "Disponible"
+
 -- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
 L["Apply Recommended Game Settings"] = "Appliquer les réglages de jeu recommandés"
 L["Not in combat: try again after the fight"] = "Pas en combat : réessayez après le combat"
@@ -250,8 +258,6 @@ L["Game settings: nothing to change"] = "Réglages de jeu : rien à changer"
 L["Game settings changed:"] = "Réglages de jeu modifiés :"
 L["Already set:"] = "Déjà réglé :"
 L["Could not set:"] = "Impossible à régler :"
-L["%s: %s, before %s"] = "%s : %s, avant %s"
-L["nothing"] = "rien"
 L["Auto Loot"] = "Fouille automatique"
 L["All Action Bars"] = "Toutes les barres d'action"
 L["Audio Assist"] = "Assistance audio"

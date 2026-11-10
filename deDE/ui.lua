@@ -6,8 +6,12 @@ L["UI"] = "Benutzeroberfläche"
 L["Interrupt Speech on Window Close"] = "Sprache beim Schließen des Fensters unterbrechen"
 L["Sounds on Opening and Closing WowVision Menus"] = "Töne beim Öffnen und Schließen von WowVision-Menüs"
 L["Letter Navigation in Menus"] = "Buchstaben-Navigation in Menüs"
-L["Skip Empty Slots on Double Arrow"] = "Leere Plätze beim doppelten Pfeildruck überspringen"
+L["Letter Navigation"] = "Buchstaben-Navigation"
+L["Filter removed"] = "Filter entfernt"
+L["All windows closed"] = "Alle Fenster geschlossen"
+L["Close All Windows"] = "Alle Fenster schließen"
 L["WowVision Sound Channel"] = "WowVision-Soundkanal"
+L["Skip Empty Slots on Double Arrow"] = "Leere Plätze beim doppelten Pfeildruck überspringen"
 L["No results"] = "Keine Ergebnisse"
 
 --Combat
@@ -243,6 +247,10 @@ L["Scope"] = "Bereich"
 L["Global"] = "Global"
 L["Glyphs not yet implemented"] = "Glyphen noch nicht umgesetzt"
 
+-- Same English word as Disabled / Available, but a different word in some languages
+L["SettingDisabled"] = "Deaktiviert"
+L["AuctionAvailable"] = "Verfügbar"
+
 -- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
 L["Apply Recommended Game Settings"] = "Empfohlene Spieleinstellungen übernehmen"
 L["Not in combat: try again after the fight"] = "Nicht im Kampf: nach dem Kampf noch einmal versuchen"
@@ -250,8 +258,6 @@ L["Game settings: nothing to change"] = "Spieleinstellungen: nichts zu ändern"
 L["Game settings changed:"] = "Spieleinstellungen geändert:"
 L["Already set:"] = "Schon eingestellt:"
 L["Could not set:"] = "Nicht einstellbar:"
-L["%s: %s, before %s"] = "%s: %s, vorher %s"
-L["nothing"] = "nichts"
 L["Auto Loot"] = "Automatisch plündern"
 L["All Action Bars"] = "Alle Aktionsleisten"
 L["Audio Assist"] = "Audiounterstützung"

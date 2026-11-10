@@ -5,8 +5,12 @@ L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
 L["Sounds on Opening and Closing WowVision Menus"] = true
 L["Letter Navigation in Menus"] = true
-L["Skip Empty Slots on Double Arrow"] = true
+L["Letter Navigation"] = true
+L["Filter removed"] = true
+L["All windows closed"] = true
+L["Close All Windows"] = true
 L["WowVision Sound Channel"] = true
+L["Skip Empty Slots on Double Arrow"] = true
 L["No results"] = true
 L["Reload, then search settings for Discord, to use this"] = true
 
@@ -243,6 +247,10 @@ L["Scope"] = true
 L["Global"] = true
 L["Glyphs not yet implemented"] = true
 
+-- Same English word as Disabled / Available, but a different word in some languages
+L["SettingDisabled"] = "Disabled"
+L["AuctionAvailable"] = "Available"
+
 -- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
 L["Apply Recommended Game Settings"] = true
 L["Not in combat: try again after the fight"] = true
@@ -250,8 +258,6 @@ L["Game settings: nothing to change"] = true
 L["Game settings changed:"] = true
 L["Already set:"] = true
 L["Could not set:"] = true
-L["%s: %s, before %s"] = true
-L["nothing"] = true
 L["Auto Loot"] = true
 L["All Action Bars"] = true
 L["Audio Assist"] = true

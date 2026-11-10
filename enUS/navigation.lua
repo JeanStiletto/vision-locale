@@ -4,6 +4,7 @@ L["Navigation"] = true
 L["Auto-move to Interact Target"] = true
 L["Automatically Navigate to Corpse"] = true
 L["Announce Remaining Waypoints"] = true
+L["Close All Windows When a Route Starts"] = true
 L["%d remaining"] = true
 
 --Compass
@@ -36,7 +37,7 @@ L["Play Sound on Follow or Unfollow"] = true
 
 --Maps
 L["Maps"] = true
-L["Beacon Settings"] = true
+L["Beacon and Routes"] = true
 L["Zone Changed Alert"] = true
 L["Subzone Changed Alert"] = true
 L["Beacon"] = true
@@ -264,6 +265,7 @@ L["Target Radius Around the Network (Yards)"] = true
 L["Height Tolerance of a Floor (Yards)"] = true
 L["Step Back at Gates"] = true
 L["Prepare Neighbouring Zones"] = true
+L["Names in Your Language"] = true
 L["Searching the route to %s"] = true
 L["En route to %s, waypoint %d of %d"] = true
 L["Waiting for the far end of %s"] = true
