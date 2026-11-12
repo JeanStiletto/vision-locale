@@ -119,6 +119,9 @@ L["Members"] = "Mitglieder"
 L["Play Style"] = "Spielstil"
 L["Invite"] = "Einladen"
 L["Group search blocked, reload to search again"] = "Gruppensuche blockiert, zum erneuten Suchen neu laden"
+L["Click the mouse to open"] = "Zum Öffnen Maus klicken"
+L["Mouse pointer outside the game window"] = "Mauszeiger außerhalb des Spielfensters"
+L["Pick or click the mouse to close, Escape again forces it"] = "Zum Schließen wählen oder Maus klicken, nochmal Escape erzwingt es"
 
 --Loot
 L["Loot"] = "Beute"

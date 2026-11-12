@@ -84,6 +84,9 @@ L["Members"] = "Membres"
 L["Play Style"] = "Style de jeu"
 L["Invite"] = "Inviter"
 L["Group search blocked, reload to search again"] = "Recherche de groupe bloquée, rechargez l'interface pour chercher à nouveau"
+L["Click the mouse to open"] = "Cliquez avec la souris pour ouvrir"
+L["Mouse pointer outside the game window"] = "Pointeur de la souris hors de la fenêtre du jeu"
+L["Pick or click the mouse to close, Escape again forces it"] = "Choisissez ou cliquez pour fermer, Échap à nouveau force la fermeture"
 
 --Loot
 L["Loot"] = "Butin"
