@@ -83,6 +83,9 @@ L["Members"] = true
 L["Play Style"] = true
 L["Invite"] = true
 L["Group search blocked, reload to search again"] = true
+L["Click the mouse to open"] = true
+L["Mouse pointer outside the game window"] = true
+L["Pick or click the mouse to close, Escape again forces it"] = true
 
 --Loot
 L["Loot"] = true
