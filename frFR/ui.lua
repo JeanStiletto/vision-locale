@@ -17,6 +17,13 @@ L["No menu open, Escape gives the keys back"] = "Aucun menu ouvert, Échap rend 
 L["Not available in combat"] = "Indisponible en combat"
 L["To pick up items in a fight, open your bags once more out of combat"] = "Pour ramasser des objets en combat, ouvrez encore une fois vos sacs hors combat"
 L["Bag layout changed, Enter may pick up the wrong item"] = "Disposition des sacs modifiée, Entrée peut prendre le mauvais objet"
+L["Pending Windows"] = "Fenêtres en attente"
+L["On"] = "Activé"
+L["Only Close All Windows"] = "Seulement Fermer toutes les fenêtres"
+L["Pending"] = "En attente"
+L["seconds left"] = "secondes restantes"
+L["Pending test"] = "Test d'attente"
+L["timed out"] = "expiré"
 L["Sound at the Start and End of Lists"] = "Son au début et à la fin des listes"
 L["No results"] = "Aucun résultat"
 
