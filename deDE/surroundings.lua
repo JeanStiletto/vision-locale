@@ -122,6 +122,7 @@ L["%d at %s, moat"] = "%d auf %s, Graben"
 
 -- die Gebäudehilfe (Alt und die Ausrichtetaste): eine Peilroute durch den nächsten Ausgang
 L["Lead Through the Next Exit"] = "Durch den nächsten Ausgang führen"
+L["Lead to the Previous Exit"] = "Zum vorherigen Ausgang führen"
 L["No exit nearby"] = "Kein Ausgang in der Nähe"
 L["Leading to %s"] = "Führung zu %s"
 L["Leading along the climb"] = "Führung entlang des Aufgangs"

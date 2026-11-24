@@ -137,6 +137,7 @@ L["%d at %s, moat"] = true
 
 -- the building helper (Alt plus the turn key): a beacon route through the next exit
 L["Lead Through the Next Exit"] = true
+L["Lead to the Previous Exit"] = true
 L["No exit nearby"] = true
 L["Leading to %s"] = true
 L["Leading along the climb"] = true
