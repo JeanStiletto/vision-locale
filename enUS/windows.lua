@@ -118,8 +118,12 @@ L["Repair All"] = true
 L["Repair Item"] = true
 L["Guild Bank Repair"] = true
 L["Automatically Sell Poor Items"] = true
+L["Automatically Sell Items Marked as Junk"] = true
 L["Automatically Repair If Possible"] = true
 L["Sold %d poor quality items for %s."] = true
+L["Sold marked junk for %s: %s."] = true
+L["Sold marked junk and %d poor quality items for %s: %s."] = true
+L["%s and %d more"] = true
 L["Repaired all items for %s."] = true
 
 --popups
@@ -318,3 +322,71 @@ L["Accept Group Invitation"] = true
 L["Group invitation accepted"] = true
 L["No group invitation"] = true
 L["Choose a role first"] = true
+
+-- Junk: items marked in the bags, sold by themselves at a merchant
+L["Select Junk"] = true
+L["Mark as Junk"] = true
+L["Unmark as Junk"] = true
+L["%s: marked as junk"] = true
+L["%s: no longer junk"] = true
+L["%s cannot be sold to a vendor."] = true
+L["This item cannot be marked as junk."] = true
+L["Forget All Junk Marks"] = true
+L["Take the junk mark off every item?"] = true
+L["Junk marks forgotten"] = true
+
+-- Item Lists: categories of items, a stop right after the bags
+L["Item Lists"] = true
+L["Show Item Lists"] = true
+L["New Items"] = true
+
+-- Favorites: items marked in the bags to find them again, never sold
+L["Favorites"] = true
+L["Select Favorite"] = true
+L["Mark as Favorite"] = true
+L["Unmark as Favorite"] = true
+L["%s: marked as favorite"] = true
+L["%s: no longer a favorite"] = true
+L["This item cannot be marked as a favorite."] = true
+L["Forget All Favorites"] = true
+L["Take the favorite mark off every item?"] = true
+L["Favorites forgotten"] = true
+
+-- LFG Forever (the third-party group finder addon, not the game's own group finder)
+L["LFG Forever"] = true
+L["Open or Close LFG Forever"] = true
+L["LFG Forever cannot be opened from here, type /lfg"] = true
+L["LFG Forever's window has changed and cannot be read"] = true
+L["Search results"] = true
+L["Searching"] = true
+L["Category"] = true
+L["Activity"] = true
+L["Groups"] = true
+L["Damage"] = true
+L["Ask to join"] = true
+L["already asked"] = true
+L["Right click menu"] = true
+L["Where is this player"] = true
+L["has changed filters"] = true
+L["%s, minimum"] = true
+L["%s, maximum"] = true
+L["Rate 1 star"] = true
+L["Rate %d stars"] = true
+L["rated %d of 3 stars"] = true
+L["not rated"] = true
+L["%d members"] = true
+L["%d members (%s)"] = true
+L["roles: %s"] = true
+L["level %d %s"] = true
+L["level %d"] = true
+L["in %s"] = true
+L["%d activities"] = true
+L["your own listing"] = true
+L["listing removed"] = true
+L["welcomes new players"] = true
+L["details unavailable"] = true
+L["message unavailable"] = true
+L["Remove my listing"] = true
+L["guild member"] = true
+L["friend"] = true
+L["lowest rating in the group: %d of 3 stars"] = true
