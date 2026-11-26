@@ -397,3 +397,6 @@ L["Delete %s?"] = true
 L["Deleted"] = true
 L["The map here is not known"] = true
 L["The map here is not known, nothing saved"] = true
+L["Blocked passage"] = true
+L["Blocked Passages"] = true
+L["Blocked passage saved"] = true
