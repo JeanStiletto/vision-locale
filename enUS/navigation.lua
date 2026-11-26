@@ -379,3 +379,27 @@ L["unreachable"] = true
 L["Name What I Bump Into"] = true
 L["wall"] = true
 L["wall of %s"] = true
+
+-- custom waypoints and danger points (core/navigation/maps/customPointsUi.lua)
+L["Custom waypoint"] = true
+L["Danger point"] = true
+L["Monster spawn"] = true
+L["Custom Points"] = true
+L["Custom Waypoints"] = true
+L["Danger Points"] = true
+L["New Custom Waypoint"] = true
+L["New Danger Point"] = true
+L["Current Position"] = true
+L["Map Coordinates, for Example 45.2 63.1"] = true
+L["Name of the waypoint"] = true
+L["Waypoint saved: %s"] = true
+L["Danger point saved"] = true
+L["Coordinates not understood"] = true
+L["Custom points are not loaded yet, try again in a moment"] = true
+L["Not saved"] = true
+L["Rename"] = true
+L["Delete"] = true
+L["New name"] = true
+L["Renamed: %s"] = true
+L["Delete %s?"] = true
+L["Deleted"] = true
