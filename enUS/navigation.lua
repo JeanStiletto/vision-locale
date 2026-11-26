@@ -395,3 +395,6 @@ L["New name"] = true
 L["Renamed: %s"] = true
 L["Delete %s?"] = true
 L["Deleted"] = true
+L["Blocked passage"] = true
+L["Blocked Passages"] = true
+L["Blocked passage saved"] = true
