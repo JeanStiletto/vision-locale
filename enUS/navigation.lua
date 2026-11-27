@@ -395,3 +395,5 @@ L["New name"] = true
 L["Renamed: %s"] = true
 L["Delete %s?"] = true
 L["Deleted"] = true
+L["The map here is not known"] = true
+L["The map here is not known, nothing saved"] = true
